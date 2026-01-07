@@ -76,7 +76,7 @@ A view `vw_cotacoes_resumo` fornece:
 
 ## ▶️ Como Executar
 
-1. Atualize a `API_KEY` em `config.py`
+1. Atualize os seguintes `API_KEY`, `CATALOG`, `SCHEMA`, `TABLE` em `config.py`
 2. Execute `api.py` no Databricks
 3. Execute `DataView.sql`
 4. Consulte os dados via SQL
